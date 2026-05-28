@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: creachreportfix
+Specification-Vendor: wolfmod
+Specification-Version: 1
+Implementation-Title: creach-report-fix
+Implementation-Version: 1.1.1
+Implementation-Vendor: wolfmod
+Implementation-Timestamp: 2026-05-28T23:00:33+0200
+MixinConfigs: creachreportfix.mixins.json
+
