@@ -1,0 +1,9 @@
+# Zeilenenden & Binärdateien
+* text=auto eol=lf
+gradlew     text eol=lf
+*.bat       text eol=crlf
+
+# Binärdateien nie konvertieren
+*.jar       binary
+*.png       binary
+*.ogg       binary
